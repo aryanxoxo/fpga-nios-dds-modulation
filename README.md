@@ -1,4 +1,6 @@
-# FPGA Signal Processing with Nios II, DDS, and Modulation Techniques
+﻿# FPGA Signal Processing with Nios II, DDS, and Modulation Techniques
+
+> Public archive note: this repository is a portfolio/demo-safe version prepared from private working repositories/materials; sensitive details, credentials, raw logs, and proprietary context are intentionally omitted.
 
 Source archive for an FPGA signal-processing project using a Nios II/Qsys system, DDS waveform generation, LFSR data generation, modulation concepts, VGA-style visualization, keyboard input, and C software running alongside custom HDL.
 
